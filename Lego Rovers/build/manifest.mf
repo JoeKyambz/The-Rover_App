@@ -1,0 +1,6 @@
+MIDlet-1: Lego Rovers, , LegoRovers
+MIDlet-Vendor: Vendor
+MIDlet-Name: Lego Rovers
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
